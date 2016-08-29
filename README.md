@@ -23,6 +23,13 @@ python __init__.py
 
 ----
 
+This repo is alse for the c/c++ tools of license plate recongize based on YOLO which is integrated with LPR tool Easypr.
+#Build
+To build,run
+```bash
+make 
+```
+
 
 #Darknet#
 Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
